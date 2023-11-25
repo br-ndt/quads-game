@@ -1,0 +1,1452 @@
+fileFormatVersion: 2
+guid: 85bf65bdc6ab34c4dab821c6d2ff1cde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6043016336122061707
+    second: Goria_0
+  - first:
+      213: -4562899454785262534
+    second: Goria_1
+  - first:
+      213: 3127105643675891861
+    second: Goria_2
+  - first:
+      213: 3561822830060350544
+    second: Goria_3
+  - first:
+      213: -172123991564102893
+    second: Goria_4
+  - first:
+      213: -6404713219495873725
+    second: Goria_5
+  - first:
+      213: 1436749768978716109
+    second: Goria_6
+  - first:
+      213: 1206876025294847108
+    second: Goria_7
+  - first:
+      213: 2565018141125268581
+    second: Goria_8
+  - first:
+      213: 3349342044647695947
+    second: Goria_9
+  - first:
+      213: 5103759045392398347
+    second: Goria_10
+  - first:
+      213: 1590084979795240152
+    second: Goria_11
+  - first:
+      213: 9044162459685513644
+    second: Goria_12
+  - first:
+      213: -4677386182289047840
+    second: Goria_13
+  - first:
+      213: 7574745728375807232
+    second: Goria_14
+  - first:
+      213: 2385801430041633519
+    second: Goria_15
+  - first:
+      213: 1871311926491016930
+    second: Goria_16
+  - first:
+      213: -7654994834636608483
+    second: Goria_17
+  - first:
+      213: 617291691249491496
+    second: Goria_18
+  - first:
+      213: 2685453951054766443
+    second: Goria_19
+  - first:
+      213: -5525887824386102965
+    second: Goria_20
+  - first:
+      213: -4301786342941184778
+    second: Goria_21
+  - first:
+      213: -6533725771535162717
+    second: Goria_22
+  - first:
+      213: -1336945104433553205
+    second: Goria_23
+  - first:
+      213: 728494913193363852
+    second: Goria_24
+  - first:
+      213: 4853663666483565529
+    second: Goria_25
+  - first:
+      213: -8864692115923662352
+    second: Goria_26
+  - first:
+      213: 5869554475706411497
+    second: Goria_27
+  - first:
+      213: -1955629795401068974
+    second: Goria_28
+  - first:
+      213: 4886640080924385687
+    second: Goria_29
+  - first:
+      213: 5760220905014979970
+    second: Goria_30
+  - first:
+      213: -1908207807830589899
+    second: Goria_31
+  - first:
+      213: 2631291483959083084
+    second: Goria_32
+  - first:
+      213: 7733641536795664162
+    second: Goria_33
+  - first:
+      213: -4976562150817758488
+    second: Goria_34
+  - first:
+      213: 1546396669513756018
+    second: Goria_35
+  - first:
+      213: 7272096301341975381
+    second: Goria_36
+  - first:
+      213: 2891152112760995607
+    second: Goria_37
+  - first:
+      213: -7331757552824859517
+    second: Goria_38
+  - first:
+      213: -1219869755115299575
+    second: Goria_39
+  - first:
+      213: -6891662131082994664
+    second: Goria_40
+  - first:
+      213: 8199706815051740485
+    second: Goria_41
+  - first:
+      213: 8563187835466117742
+    second: Goria_42
+  - first:
+      213: 3334153863630486490
+    second: Goria_43
+  - first:
+      213: -9208711806437138196
+    second: Goria_44
+  - first:
+      213: 6893554652510874218
+    second: Goria_45
+  - first:
+      213: 4775626695450686617
+    second: Goria_46
+  - first:
+      213: 6921791648212714001
+    second: Goria_47
+  - first:
+      213: 7711680790721635521
+    second: Goria_48
+  - first:
+      213: -4416331892165137346
+    second: Goria_49
+  - first:
+      213: -4301367495260841979
+    second: Goria_50
+  - first:
+      213: -7984870083268126469
+    second: Goria_51
+  - first:
+      213: 4556635226413992351
+    second: Goria_52
+  - first:
+      213: -6740719226953277392
+    second: Goria_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goria_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cdf89d8a4e22ca0800000000000000
+      internalID: -6043016336122061707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 150
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c63b30f135da0c0800000000000000
+      internalID: -4562899454785262534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 150
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598bb6ac306b56b20800000000000000
+      internalID: 3127105643675891861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 150
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05caf9a1ef22e6130800000000000000
+      internalID: 3561822830060350544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 150
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313df71442e7c9df0800000000000000
+      internalID: -172123991564102893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 150
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34333bfa243ed17a0800000000000000
+      internalID: -6404713219495873725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 150
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5d91b7d4c50f310800000000000000
+      internalID: 1436749768978716109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 150
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c72a7c95fafb010800000000000000
+      internalID: 1206876025294847108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 150
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5645438c866c89320800000000000000
+      internalID: 2565018141125268581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46a18218d04b7e20800000000000000
+      internalID: 3349342044647695947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 120
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08fcc79fc134d640800000000000000
+      internalID: 5103759045392398347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 120
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4216f4ddd111610800000000000000
+      internalID: 1590084979795240152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 120
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca96a7cc6d1538d70800000000000000
+      internalID: 9044162459685513644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 120
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee375f8c06961fb0800000000000000
+      internalID: -4677386182289047840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 120
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d5fb37b17ee1960800000000000000
+      internalID: 7574745728375807232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 120
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2204692c11c1120800000000000000
+      internalID: 2385801430041633519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 120
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eee272584c38f910800000000000000
+      internalID: 1871311926491016930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 120
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ce80c71cef3c590800000000000000
+      internalID: -7654994834636608483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ed9bbc58f019800800000000000000
+      internalID: 617291691249491496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 90
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61e94de326a44520800000000000000
+      internalID: 2685453951054766443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 90
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b496fc61d4a1053b0800000000000000
+      internalID: -5525887824386102965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 90
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc2d59ec1cfc44c0800000000000000
+      internalID: -4301786342941184778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 90
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2e4d7270b8355a0800000000000000
+      internalID: -6533725771535162717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 90
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc06a0ec287327de0800000000000000
+      internalID: -1336945104433553205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_24
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 90
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89c19983422c1a00800000000000000
+      internalID: 728494913193363852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 90
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d319fb836dab5340800000000000000
+      internalID: 4853663666483565529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 90
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f90a2bdc794af480800000000000000
+      internalID: -8864692115923662352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9e84a82b8d47150800000000000000
+      internalID: 5869554475706411497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 60
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e03fcff053cd4e0800000000000000
+      internalID: -1955629795401068974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 60
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7912fa85345d0d340800000000000000
+      internalID: 4886640080924385687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_30
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 60
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d6237e46a60ff40800000000000000
+      internalID: 5760220905014979970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 60
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e71a0eb1fa485e0800000000000000
+      internalID: -1908207807830589899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 60
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4044e9d9a9348420800000000000000
+      internalID: 2631291483959083084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 60
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f59ecc00a635b60800000000000000
+      internalID: 7733641536795664162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_34
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 60
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e28add3713bfeab0800000000000000
+      internalID: -4976562150817758488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 60
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27de638e397e57510800000000000000
+      internalID: 1546396669513756018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553abed8e0dabe460800000000000000
+      internalID: 7272096301341975381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 30
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f3db0578f6f1820800000000000000
+      internalID: 2891152112760995607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 30
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384469cd95d504a90800000000000000
+      internalID: -7331757552824859517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_39
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 30
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d1c1ebbe6221fe0800000000000000
+      internalID: -1219869755115299575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_40
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 30
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c59cc2ec5eb50a0800000000000000
+      internalID: -6891662131082994664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_41
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 30
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545328587e53bc170800000000000000
+      internalID: 8199706815051740485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 30
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6277e577fd86d670800000000000000
+      internalID: 8563187835466117742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 30
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbf03c164b454e20800000000000000
+      internalID: 3334153863630486490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_44
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 30
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce06e52e665143080800000000000000
+      internalID: -9208711806437138196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ae6aece63daaf50800000000000000
+      internalID: 6893554652510874218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_46
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994f53a5d2f664240800000000000000
+      internalID: 4775626695450686617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1120cf0b4d42f0060800000000000000
+      internalID: 6921791648212714001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_48
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4aa2822d4650b60800000000000000
+      internalID: 7711680790721635521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_49
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ca445fa8906b2c0800000000000000
+      internalID: -4416331892165137346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_50
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508d09c7d097e44c0800000000000000
+      internalID: -4301367495260841979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_51
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8d82507fa003190800000000000000
+      internalID: -7984870083268126469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_52
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f990079a89b6c3f30800000000000000
+      internalID: 4556635226413992351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goria_53
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 41
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030edc2b3972472a0800000000000000
+      internalID: -6740719226953277392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 12ee24ea76187d642b9ba14e4f19f982
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
